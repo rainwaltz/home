@@ -1,0 +1,5 @@
+1) git config --global user.name "rainwaltz"
+2) git config --global user.email "rainwaltz1129@gmail.com"
+3) cd C/Users/USER/Desktop/git
+4) is it possible that mkdir $PWD git
+
