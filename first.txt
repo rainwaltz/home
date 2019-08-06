@@ -1,5 +1,21 @@
+0) git download : https://git-scm.com/     , https://victorydntmd.tistory.com/73
+
 1) git config --global user.name "rainwaltz"
 2) git config --global user.email "rainwaltz1129@gmail.com"
-3) cd C/Users/USER/Desktop/git
-4) is it possible that mkdir $PWD git
 
+3) mkdir "C/Users/USER/Desktop/" git ($PWD)
+4) cd C/Users/USER/Desktop/git
+
+5) git init : chogihwa, it is order that let me host who can update, save, delete file in PWD.
++) add : add to commit list_localPC
++) commit : create commit(1block of history)_localPC
++) push : send localPC data to gitHUB
+
+6) git add . :
+6-1) dot means all. file in git directory send to index(staging area)(commit means that file send to local repository)
+6-2) after this word, error about CRLF pop. then it's ok. ignore that. because Unix program used in windows.
++) https://ethankang.tistory.com/14?category=725857
+
+
+) git commit -m "initial commit"  , git commit -m "first commit"
+)git log, git status : check my localPC git commit
